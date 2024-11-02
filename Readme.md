@@ -1,1 +1,1 @@
-why i don't save notebook in my google colab, maybe need a simple file. Try it.
+Here wiil be description about how install and use emotion recognition telegram bot.
